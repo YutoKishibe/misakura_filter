@@ -4,7 +4,7 @@
 Webページの文章をすべてみさくら誤コンバートする拡張機能です<br/>
 Chrome拡張の<a href="https://chrome.google.com/webstore/detail/%E3%82%A4%E3%82%AB%E8%AA%9E%E3%82%B3%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BF-for-chrome/pdhhbgpiiphbnnefiknaanfngjhbhidl?hl=ja">イカ語コンバータ―</a>~~のソースを丸ごとパクッて改変して~~参考にして作成したため、$5払っての一般公開はしません。<br/>
 現在、機能をonにしたままリロードしたり、on→off→onなどにすると多重みさくらになる~~バグ~~仕様があります。<br/>
-また、ツイッターは5秒に一度レスポンスを受け取るため、5秒に一度みさくらonみさくらになります。<br/>
+また、ツイッターは5秒に一度レスポンスを受け取るため、5秒に一度みさくらonみさくらになります。offにしても動き続けます<br/>
 <br/>
 ##導入方法
 1. git cloneするか、zipでDLする
