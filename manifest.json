@@ -1,0 +1,33 @@
+{
+"update_url":"http://clients2.google.com/service/update2/crx",
+  "manifest_version": 2,
+  "background": {
+    "page": "background.html"
+  },
+"name": "みさくら誤変換 for Chrome",
+"version": "0.1",
+"description": "Webページのぉおお文字、文章をみしゃくら誤変換しゅるアドオンにゃのぉおお。
+アイコンクリックれON,OFFが切り替えられるのぉおお",
+	"browser_action":{
+		"default_title":"機能のオンオフ ahe=オン・rame=オフ",
+		"default_icon":"icon/icon38.png"
+			},
+"icons": { "64": "icon/icon64.png",
+	   "128": "icon/icon128.png"},
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "all_frames":true, 
+      "js": ["js/jquery.js","js/misakura.js","js/misakura_filter.js"]
+    }
+  ],
+
+"permissions": [
+  "tabs","contextMenus","http://*/*","https://*/*"
+],
+
+"options_page": "options.html",
+
+"minimum_chrome_version": "6"
+
+}
