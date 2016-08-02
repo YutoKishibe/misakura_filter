@@ -16,4 +16,9 @@ Chrome拡張の<a href="https://chrome.google.com/webstore/detail/%E3%82%A4%E3%8
 アイコンをクリックしてahe(on),rame(off)を切り替えられる。<br/>
 また、ページ上で右クリックし、「みさくら誤変換on⇔off」でも同様に切り替えられる<br/>
 アイコンを右クリックし、オプションをクリックすると、通常のみさくら誤変換を使用できるページが開く<br/>
+##使用例
+走れメロス<br/>
+<img src=sample/Melos.png>
+ツイッター(多重みさくら)<br/>
+<img src=sample/misakuratter.png>
 
