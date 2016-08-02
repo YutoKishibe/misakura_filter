@@ -18,7 +18,7 @@ Chrome拡張の<a href="https://chrome.google.com/webstore/detail/%E3%82%A4%E3%8
 アイコンを右クリックし、オプションをクリックすると、通常のみさくら誤変換を使用できるページが開く<br/>
 ##使用例
 走れメロス<br/>
-<img src=sample/Melos.png><br/>
+<img src="sample/Melos.png"><br/>
 ツイッター(多重みさくら)<br/>
-<img src=sample/misakuratter.png><br/>
+<img src="sample/misakuratter.png"><br/>
 
